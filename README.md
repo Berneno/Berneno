@@ -1,3 +1,4 @@
+<a href="razer.com" target="_blank"><img src="https://img.shields.io/badge/RAZER-#00FF00?style-for-the-badge&logo=razer&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/razer-#00FF00?style=for-the-badge&logo=RAZER&logoColor=black">
 
 
