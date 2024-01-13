@@ -1,3 +1,6 @@
+<img src="https://img.shields.io/badge/razer-#00FF00?style=for-the-badge&logo=RAZER&logoColor=black">
+
+
 This is Header
 ==============
 
