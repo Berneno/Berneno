@@ -32,7 +32,7 @@ ___
 Click [pornhub](pornhub.com)
 ___
 # 이미지 기능
-![image ㅋㅋ](https://steamuserimages-a.akamaihd.net/ugc/1690522341905398802/3E1BB499FC8E46925E5C9F2A7F3164882029932F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+![image ㅋㅋ](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftheqoo.net%2Fsquare%2F2203184713&psig=AOvVaw20OWUIKdJPubL4SMuk-6ej&ust=1715706855215000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDEsZ6Qi4YDFQAAAAAdAAAAABAx)
 ### 크기조절 HTML
 <img width="100" height="100"></img>
 ___
